@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joel Gray
-- 👀 I’m interested in Software Engineering, Web Development, React, Python, C/C++ 
+- 👀 I’m interested in Software Engineering, Web Development, Python, React, C and embedded systems.
 - 🌱 I’m currently learning Python and React
 - 💞️ I’m looking to collaborate on anything interesting and cool
 - 📫 How to reach me joel.gray@graycode.ie
