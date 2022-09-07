@@ -3,7 +3,7 @@
 - 👀 I'm interested in Python, React, C, Embedded Systems and Web Development.
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on anything interesting and cool
-- 📫 How to reach me joel.gray@graycode.ie
+- 📫 How to reach me joel@graycode.ie
 
 <!---
 joeltgray/joeltgray is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
