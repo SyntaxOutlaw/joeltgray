@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joel Gray
 - ✔️ I’m a Software Engineer from Ireland, focusing on Python at the minute.
-- 👀 I'm interested in Python, React, C, Embedded Systems and Web Development.
+- 👀 I'm interested in Python, Javascript and Web Development.
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on anything interesting and cool
 - 📫 How to reach me joel@graycode.ie
