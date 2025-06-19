@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Joel Gray
-- ✔️ I’m a Software Engineer from Ireland, focusing on Java at the minute.
-- 👀 I'm interested in Python, Javascript and Web Development.
-- 🌱 I’m currently learning ReactJS
+- ✔️ I’m a Software Engineer from Ireland
+- 👀 I'm interested in Python, AI, ReactJS and delivering sleek products!
 - 💞️ I’m currently developing a Fuel Price comparison app https://pickapump.com
 - 📫 How to reach me joel@graycode.ie
 
